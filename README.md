@@ -3,9 +3,10 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Immigration Canada stats 2016- 2026 </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python]()
+    
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware]() <b><i>(Potentially NSFW)</b></i>
 
 - <b> Data science project </b>
   - [ My Master project analysis using R and Bash](https://github.com/nickysu50/pipelines_)

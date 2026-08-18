@@ -9,7 +9,7 @@
   - [Image Analysis Middleware]() <b><i>(Potentially NSFW)</b></i>
 
 - <b> Data science project </b>
-  - [ My Master project analysis using R and Bash](https://github.com/nickysu50/pipelines_)
+  - [ Master's thesis analysis using R Studio and Bash](https://github.com/nickysu50/pipelines_)
 
 
 
